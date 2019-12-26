@@ -1,4 +1,3 @@
-# inter-volga-portfolio
 1. В папке assets находятся файлы css, библиотеки и файлы javascript
 2. В папке core файл автозагрузки классов autoload.php;
 файл подключения к БД db.php;
